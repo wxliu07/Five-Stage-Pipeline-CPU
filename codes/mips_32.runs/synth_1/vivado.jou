@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Dec 28 08:43:53 2022
+# Process ID: 18072
+# Current directory: E:/MIPS_CPU/mips_32/mips_32.runs/synth_1
+# Command line: vivado.exe -log textbench.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source textbench.tcl
+# Log file: E:/MIPS_CPU/mips_32/mips_32.runs/synth_1/textbench.vds
+# Journal file: E:/MIPS_CPU/mips_32/mips_32.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source textbench.tcl -notrace

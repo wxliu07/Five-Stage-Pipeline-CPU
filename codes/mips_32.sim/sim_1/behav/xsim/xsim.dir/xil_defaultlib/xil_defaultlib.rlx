@@ -1,0 +1,22 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+E:/MIPS_CPU/mips_32/mips_32.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1672119996,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/counter.v,,blk_mem_gen_0,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/counter.v,1672155348,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/ctrl.v,,counter,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/ctrl.v,1672064927,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/ex.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,ctrl,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,1672112009,verilog,,,,,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/ex.v,1672130201,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/ex_mem.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,ex,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/ex_mem.v,1672073617,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/id.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,ex_mem,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/id.v,1672131817,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/id_ex.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,id,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/id_ex.v,1672073320,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/if_id.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,id_ex,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/if_id.v,1672073403,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/inst_rom.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,if_id,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/inst_rom.v,1672156950,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/mem.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,inst_rom,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/mem.v,1672114806,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/mem_wb.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,mem,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/mem_wb.v,1672073460,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/mips.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,mem_wb,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/mips.v,1672115805,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/mips_and_rom.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,mips,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/mips_and_rom.v,1672151391,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/pc_reg.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,mips_and_rom,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/pc_reg.v,1672068305,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/regfile.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,pc_reg,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/regfile.v,1672127929,verilog,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/textbench.v,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,regfile,,,,,,,,
+E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/textbench.v,1672158128,verilog,,,E:/MIPS_CPU/mips_32/mips_32.srcs/sources_1/new/defines.v,textbench,,,,,,,,

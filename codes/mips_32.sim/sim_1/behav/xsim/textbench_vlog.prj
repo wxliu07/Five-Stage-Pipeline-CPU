@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog blk_mem_gen_v8_4_4  \
+"../../../../mips_32.ip_user_files/ipstatic/simulation/blk_mem_gen_v8_4.v" \
+
+verilog xil_defaultlib  \
+"../../../../mips_32.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../mips_32.srcs/sources_1/new/counter.v" \
+"../../../../mips_32.srcs/sources_1/new/ctrl.v" \
+"../../../../mips_32.srcs/sources_1/new/ex.v" \
+"../../../../mips_32.srcs/sources_1/new/ex_mem.v" \
+"../../../../mips_32.srcs/sources_1/new/id.v" \
+"../../../../mips_32.srcs/sources_1/new/id_ex.v" \
+"../../../../mips_32.srcs/sources_1/new/if_id.v" \
+"../../../../mips_32.srcs/sources_1/new/inst_rom.v" \
+"../../../../mips_32.srcs/sources_1/new/mem.v" \
+"../../../../mips_32.srcs/sources_1/new/mem_wb.v" \
+"../../../../mips_32.srcs/sources_1/new/mips.v" \
+"../../../../mips_32.srcs/sources_1/new/mips_and_rom.v" \
+"../../../../mips_32.srcs/sources_1/new/pc_reg.v" \
+"../../../../mips_32.srcs/sources_1/new/regfile.v" \
+"../../../../mips_32.srcs/sources_1/new/textbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

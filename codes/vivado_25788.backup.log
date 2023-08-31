@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Dec 28 15:43:10 2022
+# Process ID: 25788
+# Current directory: E:/MIPS_CPU/mips_32
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent24692 E:\MIPS_CPU\mips_32\mips_32.xpr
+# Log file: E:/MIPS_CPU/mips_32/vivado.log
+# Journal file: E:/MIPS_CPU/mips_32\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/MIPS_CPU/mips_32/mips_32.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado_For_CS/Vivado/2019.2/data/ip'.
+WARNING: [IP_Flow 19-2162] IP 'blk_mem_gen_0' is locked:
+* Current project part 'xc7a35tcsg324-1' and the part 'xc7k70tfbv676-1' used to customize the IP 'blk_mem_gen_0' do not match.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:06 . Memory (MB): peak = 782.062 ; gain = 111.234
+update_compile_order -fileset sources_1
