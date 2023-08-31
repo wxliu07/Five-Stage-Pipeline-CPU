@@ -59,7 +59,11 @@
 
 ![image-20230830195218874](README.assets/image-20230830195218874.png)
 
-<center>图 3封装效果图2</center>
+
+
+<p align="center">  
+图3封装效果图2
+</p>  
 
 ### 模块介绍
 
@@ -73,7 +77,11 @@
 
    <img src="README.assets/image-20230830195326871.png" alt="image-20230830195326871" style="zoom:67%;" />
 
+
+<p align="center">  
    <center>图 4 PC寄存器</center>
+</p>  
+   
 
 2. **id模块（译码）**
 
